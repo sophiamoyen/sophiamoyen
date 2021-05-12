@@ -1,3 +1,3 @@
 # Pablita
 
-Oi
+Esse repositório é dedicado a projetos individuais.
